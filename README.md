@@ -23,7 +23,7 @@ This project aims to analyse COVID-19 deaths, rates, and trends across various j
 + SQL: Data cleaning, querying, and analysis.
 + Power BI: Interactive visualizations and dashboards.
 
-# 🛠️ Data Preparation (Cleaning and Loading) & Analysis : [link](https://github.com/venugopal2202/COVID-19-Death-Analysis/blob/main/covid-19-death-analysis-p.ipynb)
+# 🛠️ Data Preparation (Cleaning and Loading) & Analysis : [link](https://github.com/venugopal2202/COVID-19-Death-Analysis/blob/main/covid-19-1project.ipynb)
 
 # Power BI Visualizations 🖌️
 + How has the number of COVID deaths changed over time across different regions?
